@@ -1,0 +1,4 @@
+# 设置默认语言 中文:zh_CN 英文:en_US
+my-configuration:
+  default-language: zh_CN
+

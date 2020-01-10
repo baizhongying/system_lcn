@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.bai.system.common.message.MyConfiguration",
+      "name": "my-configuration",
+      "type": "com.bai.system.common.message.MyConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.bai.system.common.message.MyConfiguration",
+      "name": "my-configuration.default-language",
+      "type": "java.lang.String"
+    }
+  ]
+}

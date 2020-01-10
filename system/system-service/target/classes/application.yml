@@ -1,0 +1,20 @@
+# 服务配置
+server:
+  port: 8080
+  tomcat:
+    max-http-post-size: 102000
+    uri-encoding: utf-8
+
+# 国际化配置
+spring:
+  application:
+    name: system-service
+  http:
+    encoding:
+      charset: UTF-8
+  profiles:
+    # 多个配置文件 ,号分开
+    active: tx-manager,mysql,redis,language,eureka
+  messages:
+    encoding: UTF-8
+

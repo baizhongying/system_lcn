@@ -1,0 +1,20 @@
+server:
+  port: 8761
+eureka:
+  server:
+    enable-self-preservation: false
+  instance:
+    #   hostname不配置的话，会根据操作系统的主机名来获取
+    hostname: localhost
+  #    注册服务之后，服务提供者会维护一个心跳用来持续告诉eureka server服务正常，以防止eureka server的剔除任务将该服务实例从服务列表中排除出去，该操作称为服务续约
+  #    lease-renewal-interval-in-seconds: 30     定义服务续约任务的调用间隔时间(默认30s,官方不推荐修改)
+  #    lease-expiration-duration-in-seconds: 90  定义服务失效的时间(默认90s,官方不推荐修改)
+  client:
+    #  在默认设置下，该服务注册中心也会将自己作为客户端来尝试注册它自己，所以我们需要禁用它的客户端注册行为
+    #  配置register-with-eureka: false 和 fetch-registry: false 来表明自己是一个eureka server
+    register-with-eureka: false
+    fetch-registry: false
+    proxy-password: root
+    proxy-user-name: root
+#  为了性能考虑，eureka server 会维护一份只读的服务清单返回给客户端，同时该缓存清单会每隔30s更新一次(可通过registry-fetch-interval-seconds进行修改)
+#    registry-fetch-interval-seconds: 30

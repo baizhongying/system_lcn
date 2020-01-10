@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.bai</groupId>
+    <artifactId>system-service</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>system-service</name>
+    <description>Demo project for Spring Boot</description>
+
+    <parent>
+        <groupId>com.bai</groupId>
+        <artifactId>system</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>${project.build.sourceEncoding}</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>${project.reporting.outputEncoding}</project.reporting.outputEncoding>
+        <java.version>${java.version}</java.version>
+    </properties>
+
+
+    <profiles>
+        <profile>
+            <id>dev</id>
+            <activation>
+                <!--默认激活-->
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <spring.profiles.active>tx-manager,mysql,redis,language,eureka</spring.profiles.active>
+            </properties>
+        </profile>
+        <profile>
+            <id>prod</id>
+            <properties>
+                <spring.profiles.active>prod</spring.profiles.active>
+            </properties>
+        </profile>
+    </profiles>
+
+
+    <dependencies>
+        <dependency>
+            <artifactId>system-common</artifactId>
+            <groupId>com.bai</groupId>
+            <version>${system.common.version}</version>
+        </dependency>
+
+        <dependency>
+            <artifactId>system-pojo</artifactId>
+            <groupId>com.bai</groupId>
+            <version>${system.common.version}</version>
+        </dependency>
+
+        <dependency>
+            <artifactId>system-login-dao</artifactId>
+            <groupId>com.bai</groupId>
+            <version>${system.dao.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>

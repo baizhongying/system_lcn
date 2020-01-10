@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="system-pojo" />
+        <module name="txlcn-logger" />
+        <module name="system-eureka" />
+        <module name="system-login-dao" />
+        <module name="system-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="system" target="1.8" />
+      <module name="system-common" target="1.8" />
+      <module name="system-eureka" target="1.8" />
+      <module name="system-login" target="11.0.5" />
+      <module name="system-login-dao" target="1.8" />
+      <module name="system-pojo" target="1.8" />
+      <module name="system-service" target="11.0.5" />
+      <module name="tx-lcn" target="1.8" />
+      <module name="txlcn-logger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="system-common" options="-parameters" />
+      <module name="system-eureka" options="-parameters" />
+      <module name="system-login" options="-parameters" />
+      <module name="system-login-dao" options="-parameters" />
+      <module name="system-pojo" options="-parameters" />
+      <module name="system-service" options="-parameters" />
+      <module name="txlcn-common" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-logger" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-tc" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-tm" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-tracing" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-txmsg" options="-parameters -Xlint:deprecation" />
+      <module name="txlcn-txmsg-netty" options="-parameters -Xlint:deprecation" />
+    </option>
+  </component>
+</project>

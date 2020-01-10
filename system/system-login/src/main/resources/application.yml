@@ -1,0 +1,29 @@
+# 服务配置
+server:
+  port: 8082
+  tomcat:
+    max-http-post-size: 102000
+    uri-encoding: utf-8
+
+# 国际化配置
+spring:
+  application:
+    name: @name@
+  encoding:
+      charset: UTF-8
+  profiles:
+    # 多个配置文件 ,号分开
+    active: @spring.profiles.active@
+  messages:
+    encoding: UTF-8
+# 设置默认语言 中文:zh_CN 英文:en_US
+my-configuration:
+  default-language: zh_CN
+
+
+
+
+
+
+
+

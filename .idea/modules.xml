@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/system/system.iml" filepath="$PROJECT_DIR$/system/system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system-common/system-common.iml" filepath="$PROJECT_DIR$/system/system-common/system-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-eureka/system-eureka.iml" filepath="$PROJECT_DIR$/system-eureka/system-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system-login/system-login.iml" filepath="$PROJECT_DIR$/system/system-login/system-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system-login-dao/system-login-dao.iml" filepath="$PROJECT_DIR$/system/system-login-dao/system-login-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system-pojo/system-pojo.iml" filepath="$PROJECT_DIR$/system/system-pojo/system-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system-service/system-service.iml" filepath="$PROJECT_DIR$/system/system-service/system-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/system_lcn.iml" filepath="$PROJECT_DIR$/.idea/system_lcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/tx-lcn.iml" filepath="$PROJECT_DIR$/tx-lcn/tx-lcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-common/txlcn-common.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-common/txlcn-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-logger/txlcn-logger.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-logger/txlcn-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-tc/txlcn-tc.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-tc/txlcn-tc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-tm/txlcn-tm.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-tm/txlcn-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-tracing/txlcn-tracing.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-tracing/txlcn-tracing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-txmsg/txlcn-txmsg.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-txmsg/txlcn-txmsg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-lcn/txlcn-txmsg-netty/txlcn-txmsg-netty.iml" filepath="$PROJECT_DIR$/tx-lcn/txlcn-txmsg-netty/txlcn-txmsg-netty.iml" />
+    </modules>
+  </component>
+</project>

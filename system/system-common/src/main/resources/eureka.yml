@@ -1,0 +1,15 @@
+# eureka 地址
+eureka:
+  client:
+    proxy-password: root
+    proxy-user-name: root
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka
+  instance:
+    prefer-ip-address: true
+# 微服务连接超时时间
+ribbon:
+  ReadTimeout: 60000
+  ConnectTimeout: 60000
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/system.iml" filepath="$PROJECT_DIR$/system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-common/system-common.iml" filepath="$PROJECT_DIR$/system-common/system-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-login/system-login.iml" filepath="$PROJECT_DIR$/system-login/system-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-login-dao/system-login-dao.iml" filepath="$PROJECT_DIR$/system-login-dao/system-login-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-pojo/system-pojo.iml" filepath="$PROJECT_DIR$/system-pojo/system-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system-service/system-service.iml" filepath="$PROJECT_DIR$/system-service/system-service.iml" />
+    </modules>
+  </component>
+</project>

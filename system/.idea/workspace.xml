@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b34512db-93a0-4a89-828b-9454f91de518" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/system$SystemServiceApplication.ic" NAME="SystemServiceApplication Coverage Results" MODIFIED="1543458350459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="system" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>username.or.password.is.incorrect</find>
+      <find>Clound</find>
+      <find>system.common.version</find>
+      <find>lombok.version</find>
+      <find>maxWaitTime</find>
+      <find>V</find>
+      <find>spring-cloud.version</find>
+      <find>spring-cloud</find>
+      <find>lombok</find>
+      <find>guava</find>
+      <find>jooq</find>
+      <find>cloud</find>
+      <find>slf4j</find>
+      <find>logback</find>
+      <find>aspectjrt</find>
+      <find>notifyUrl</find>
+      <find>compensateNotifyUrl</find>
+      <find>configuration</find>
+      <find>RunDashboard</find>
+      <find>TX-MANAGER</find>
+      <find>initDomainRedisTemplate</find>
+      <find>=</find>
+      <find>cf</find>
+      <find>exps</find>
+      <find>host</find>
+      <find>keyGenerator</find>
+      <find>system-dao</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>:</replace>
+      <replace>system-login-dao</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\code\bai_product\system\system-service</dir>
+      <dir>D:\code\bai_product\system</dir>
+    </dirStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Q8QtcuA2C7uAiM4c0VOZfhewqe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550817874674" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\bai_product\system\system-common\src\main\resources" />
+      <recent name="D:\code\bai_product\system\system-common" />
+      <recent name="D:\code\bai_product\system\system-common\lib" />
+      <recent name="D:\code\bai_product\system\system-service\src\main\resources" />
+      <recent name="D:\code\bai_product\system" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bai.system.login.clients.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\bai_product\system\system-common\src\main\resources" />
+      <recent name="D:\code\bai_product\system\system-login\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SystemServiceApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="system-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bai.system.login.login.SystemLoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="system-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bai.system.login.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bai.system.login.service.SystemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SystemServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34512db-93a0-4a89-828b-9454f91de518" name="Default Changelist" comment="" />
+      <created>1542370153062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542370153062</updated>
+      <workItem from="1542370158491" duration="142000" />
+      <workItem from="1542370357359" duration="989000" />
+      <workItem from="1542435896213" duration="3424000" />
+      <workItem from="1542446311929" duration="53000" />
+      <workItem from="1542978981557" duration="5227000" />
+      <workItem from="1543048762537" duration="6206000" />
+      <workItem from="1543148972067" duration="1998000" />
+      <workItem from="1543151404322" duration="7986000" />
+      <workItem from="1543159470078" duration="781000" />
+      <workItem from="1543197337990" duration="12615000" />
+      <workItem from="1543227759270" duration="273000" />
+      <workItem from="1543229775757" duration="15416000" />
+      <workItem from="1543285490963" duration="184000" />
+      <workItem from="1543285815394" duration="11000" />
+      <workItem from="1543285927045" duration="271000" />
+      <workItem from="1543286261387" duration="30528000" />
+      <workItem from="1543367702835" duration="23924000" />
+      <workItem from="1543460532829" duration="733000" />
+      <workItem from="1543462153292" duration="164000" />
+      <workItem from="1543463426918" duration="8342000" />
+      <workItem from="1543485668563" duration="6767000" />
+      <workItem from="1545034718076" duration="4036000" />
+      <workItem from="1545221874378" duration="1803000" />
+      <workItem from="1545223840657" duration="2427000" />
+      <workItem from="1545268490116" duration="21000" />
+      <workItem from="1545467946949" duration="469000" />
+      <workItem from="1545614843408" duration="58000" />
+      <workItem from="1545615216495" duration="31000" />
+      <workItem from="1548213416949" duration="12178000" />
+      <workItem from="1548237125654" duration="1575000" />
+      <workItem from="1548292330855" duration="13184000" />
+      <workItem from="1548386346671" duration="5578000" />
+      <workItem from="1548400008367" duration="8188000" />
+      <workItem from="1548639667794" duration="9590000" />
+      <workItem from="1548659051788" duration="3495000" />
+      <workItem from="1550814953050" duration="719000" />
+      <workItem from="1553680776095" duration="224000" />
+      <workItem from="1553851341427" duration="1509000" />
+      <workItem from="1555656457695" duration="858000" />
+      <workItem from="1555760416213" duration="129000" />
+      <workItem from="1555833976745" duration="2596000" />
+      <workItem from="1556159016471" duration="102000" />
+      <workItem from="1567149960925" duration="371000" />
+      <workItem from="1576723461919" duration="710000" />
+      <workItem from="1576724279336" duration="852000" />
+      <workItem from="1576725574309" duration="834000" />
+      <workItem from="1576727336376" duration="127000" />
+      <workItem from="1578638456888" duration="2007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576726409646">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576726409646" />
+    <state x="797" y="460" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576727387814">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="797" y="460" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576727387814" />
+    <state x="549" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1578638459769">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="549" y="376" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578638459769" />
+    <state x="627" y="386" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576724303109" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;192.168.2.100&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;root&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request.getLocale()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>system-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

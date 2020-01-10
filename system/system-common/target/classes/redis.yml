@@ -1,0 +1,19 @@
+# redis 单点环境配置
+spring:
+  redis:
+    name: 192.168.2.84
+    port: 6379
+    password: root
+    timeout: 5
+    database: 0
+    pool:
+      max-active: 8
+      max-wait: -1
+      max-idle: 8
+      min-idle: 5
+    session:
+      store-type: redis
+  server:
+    servlet:
+      session:
+        timeout: "PT10M"

@@ -1,0 +1,12 @@
+# 事物
+# manager服务地址(rpc端口),可填写多个负载
+tx-lcn:
+  client:
+    manager-address: 127.0.0.1:8070
+# 日志记录
+  logger:
+   enabled: true
+   driver-class-name: com.mysql.jdbc.Driver
+   jdbc-url: @mysql.url@/tx_logger?characterEncoding=UTF-8&serverTimezone=UTC
+   username: root
+   password: 898392913
