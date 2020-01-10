@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -53,9 +56,17 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="673" y="434" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578644047488" />
+    <state x="421" y="141" key="CommitChangelistDialog2" timestamp="1578646899659">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="421" y="141" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1578646899659" />
     <state x="341" y="175" key="SettingsEditor" timestamp="1578643695259">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578643695259" />
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1578646882502">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578646882502" />
   </component>
 </project>
