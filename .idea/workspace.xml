@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ae32253-c422-4acd-8c59-b398b749e92e" name="Default Changelist" comment="" />
+    <list default="true" id="3ae32253-c422-4acd-8c59-b398b749e92e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tc/.txlcn/application-0.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-meetzy.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-meetzy.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-second.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-second.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-third.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-third.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-ujued.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application-ujued.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-lcn/txlcn-tm/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,6 +31,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1WCB73cQmvRxsm3gep3H6G7nP7n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,14 +42,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../office-code/gclife-attachment-service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,6 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578643525494</updated>
       <workItem from="1578643527111" duration="1221000" />
+      <workItem from="1578647294281" duration="1963000" />
+      <workItem from="1578877987437" duration="19000" />
+      <workItem from="1578895655210" duration="1194000" />
     </task>
     <servers />
   </component>
@@ -52,6 +85,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="579" y="201" width="800" height="687" key="#Project_Structure" timestamp="1578650742667">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state x="579" y="201" width="800" height="687" key="#Project_Structure/49.0.1871.1080@49.0.1871.1080" timestamp="1578650742667" />
     <state x="673" y="434" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578644047488">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -60,17 +97,43 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="421" y="141" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1578646936561" />
-    <state x="341" y="175" key="SettingsEditor" timestamp="1578643695259">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="762" y="298" width="424" height="494" key="FileChooserDialogImpl" timestamp="1578878004272">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state x="762" y="298" width="424" height="494" key="FileChooserDialogImpl/49.0.1871.1080@49.0.1871.1080" timestamp="1578878004272" />
+    <state width="1711" height="292" key="GridCell.Tab.0.bottom" timestamp="1578896625332">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state width="1711" height="292" key="GridCell.Tab.0.bottom/49.0.1871.1080@49.0.1871.1080" timestamp="1578896625332" />
+    <state width="1711" height="292" key="GridCell.Tab.0.center" timestamp="1578896625332">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state width="1711" height="292" key="GridCell.Tab.0.center/49.0.1871.1080@49.0.1871.1080" timestamp="1578896625332" />
+    <state width="1711" height="292" key="GridCell.Tab.0.left" timestamp="1578896625331">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state width="1711" height="292" key="GridCell.Tab.0.left/49.0.1871.1080@49.0.1871.1080" timestamp="1578896625331" />
+    <state width="1711" height="292" key="GridCell.Tab.0.right" timestamp="1578896625332">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state width="1711" height="292" key="GridCell.Tab.0.right/49.0.1871.1080@49.0.1871.1080" timestamp="1578896625332" />
+    <state x="429" y="160" width="932" height="740" key="SettingsEditor" timestamp="1578895754434">
+      <screen x="49" y="0" width="1871" height="1080" />
     </state>
     <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578643695259" />
+    <state x="429" y="160" width="932" height="740" key="SettingsEditor/49.0.1871.1080@49.0.1871.1080" timestamp="1578895754434" />
     <state x="440" y="278" key="Vcs.Push.Dialog.v2" timestamp="1578646940737">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="278" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1578646940737" />
-    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1578646882502">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="599" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1578877987824">
+      <screen x="49" y="0" width="1871" height="1080" />
     </state>
     <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578646882502" />
+    <state x="599" y="366" key="com.intellij.ide.util.TipDialog/49.0.1871.1080@49.0.1871.1080" timestamp="1578877987824" />
+    <state x="652" y="276" width="664" height="528" key="find.popup" timestamp="1578896818537">
+      <screen x="49" y="0" width="1871" height="1080" />
+    </state>
+    <state x="652" y="276" width="664" height="528" key="find.popup/49.0.1871.1080@49.0.1871.1080" timestamp="1578896818537" />
   </component>
 </project>
